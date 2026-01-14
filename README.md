@@ -36,7 +36,6 @@ This **Functional System** focuses on applying high-level engineering concepts:
 ---
 
 ## 🔗 Quick Links (Previous Phases)
-* **Level 08 Roadmap:** 🚀 [Algorithms & Problem Solving Level 4](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/08%20-%20Algorithms%20%26%20Problem%20Solving%20Level%204)
 * **Phase 1 (Foundation):** [Bank System V1](https://github.com/ammmrrr18-cloud/07-Algorithms-Level-3-Bank-Project)
 * **Phase 2 (Extension 1):** [Bank Extension V2](https://github.com/ammmrrr18-cloud/Project-2---Bank-Extension---Level-7)
 
@@ -45,3 +44,6 @@ This **Functional System** focuses on applying high-level engineering concepts:
 ## 📁 Repository Structure
 * **My-Solution:** The enhanced source code featuring the advanced permissions and user management system.
 * **Instructor-Solution:** The model solution by Dr. Mohammed Abu-Hadhoud for technical reference and comparison.
+
+---
+*📌 "Evolving a project from simple records to a secure system with permissions is the core of professional software engineering."*
