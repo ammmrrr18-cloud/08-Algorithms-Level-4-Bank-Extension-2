@@ -45,6 +45,3 @@ This **Functional System** focuses on applying high-level engineering concepts:
 ## 📁 Repository Structure
 * **My-Solution:** The enhanced source code featuring the advanced permissions and user management system.
 * **Instructor-Solution:** The model solution by Dr. Mohammed Abu-Hadhoud for technical reference and comparison.
-
----
-*📌 "Evolving a project from simple records to a secure system with permissions is the core of professional software engineering."*
